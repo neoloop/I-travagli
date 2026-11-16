@@ -23,6 +23,8 @@ Gestionnaire de tâches auto-hébergé : une seule page HTML, un petit serveur P
 
 ### Projets et workflows : à quoi ça sert
 
+![Carte heuristique : projet et workflow](docs/mindmap-fr.svg)
+
 Deux notions complémentaires, toutes deux facultatives. Une tâche peut avoir un projet, un workflow, les deux ou aucun.
 
 **Projet = le « pourquoi » (regrouper).** Un projet rassemble les tâches d'un même sujet (« Projet Alpha », « Achats », « Travaux »…), avec un nom, une icône et une couleur.
@@ -84,6 +86,8 @@ Self-hosted task manager: a single HTML page, a tiny Python server (standard lib
 - Installable to the home screen (iPhone, Mac, Android)
 
 ### Projects and workflows: what they are for
+
+![Mind map: project and workflow](docs/mindmap-en.svg)
 
 Two complementary, optional concepts. A task can have a project, a workflow, both, or neither.
 

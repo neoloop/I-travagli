@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 640" width="1300" height="640" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1300" height="640" rx="16" fill="#ffffff" stroke="#e1e5ec"/>
+<path d="M580 215 C560.0 215 560.0 215 540 215" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M720 215 C740.0 215 740.0 215 760 215" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 50 346 50" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 107 346 107" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 164 346 164" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 221 346 221" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 278 346 278" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M400 215 C373.0 215 373.0 335 346 335" fill="none" stroke="#2563eb" stroke-width="2.5" opacity=".6"/>
+<path d="M900 215 C927.0 215 927.0 68 954 68" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<path d="M900 215 C927.0 215 927.0 136 954 136" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<path d="M900 215 C927.0 215 927.0 204 954 204" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<path d="M900 215 C927.0 215 927.0 272 954 272" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<path d="M900 215 C927.0 215 927.0 340 954 340" fill="none" stroke="#16a34a" stroke-width="2.5" opacity=".6"/>
+<rect x="16" y="30" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="55" font-size="14" fill="#1d2430">Groups the tasks of one subject</text>
+<rect x="16" y="87" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="112" font-size="14" fill="#1d2430">Name + icon + colour</text>
+<rect x="16" y="144" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="169" font-size="14" fill="#1d2430">Collapsible block, progress "1/4 done"</text>
+<rect x="16" y="201" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="226" font-size="14" fill="#1d2430">Quick add: title #alpha  (! = urgent)</text>
+<rect x="16" y="258" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="283" font-size="14" fill="#1d2430">Stats and meeting summary per project</text>
+<rect x="16" y="315" width="330" height="40" rx="20" fill="#eaf1ff" stroke="#2563eb" stroke-opacity=".5"/><text x="31" y="340" font-size="14" fill="#1d2430">No project → "Other tasks"</text>
+<rect x="954" y="48" width="330" height="40" rx="20" fill="#e9f8ee" stroke="#16a34a" stroke-opacity=".5"/><text x="969" y="73" font-size="14" fill="#1d2430">Reusable sequence of steps</text>
+<rect x="954" y="116" width="330" height="40" rx="20" fill="#e9f8ee" stroke="#16a34a" stroke-opacity=".5"/><text x="969" y="141" font-size="14" fill="#1d2430">Each step = one category</text>
+<rect x="954" y="184" width="330" height="40" rx="20" fill="#e9f8ee" stroke="#16a34a" stroke-opacity=".5"/><text x="969" y="209" font-size="14" fill="#1d2430">Changing step moves the task to another tab</text>
+<rect x="954" y="252" width="330" height="40" rx="20" fill="#e9f8ee" stroke="#16a34a" stroke-opacity=".5"/><text x="969" y="277" font-size="14" fill="#1d2430">Stats: number of tasks per step</text>
+<rect x="954" y="320" width="330" height="40" rx="20" fill="#e9f8ee" stroke="#16a34a" stroke-opacity=".5"/><text x="969" y="345" font-size="14" fill="#1d2430">3 templates: e-mail, phone, purchases</text>
+<ellipse cx="650" cy="215" rx="70" ry="44" fill="#1d2430"/><text x="650" y="212" text-anchor="middle" font-size="19" font-weight="700" fill="#fff">A task</text><text x="650" y="233" text-anchor="middle" font-size="12.5" fill="#cfd6e2">can have…</text>
+<rect x="400" y="177" width="140" height="76" rx="14" fill="#2563eb"/><text x="470" y="211" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">📁 Project</text><text x="470" y="234" text-anchor="middle" font-size="13" fill="#eef3ff">the "why"</text>
+<rect x="760" y="177" width="140" height="76" rx="14" fill="#16a34a"/><text x="830" y="211" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">⛓ Workflow</text><text x="830" y="234" text-anchor="middle" font-size="13" fill="#eef3ff">the "how"</text>
+<rect x="16" y="420" width="1268" height="170" rx="14" fill="#f5f6f8" stroke="#e1e5ec"/>
+<text x="650" y="450" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2430">Workflow example: "Send an e-mail"</text>
+<rect x="70.0" y="470" width="200" height="46" rx="23" fill="#2563eb"/><text x="170.0" y="499" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">📑 Gather info</text>
+<text x="170.0" y="540" text-anchor="middle" font-size="12.5" fill="#6b7686">tab: 🌱 Today</text>
+<path d="M276.0 493 H302.0" stroke="#6b7686" stroke-width="2"/><path d="M296.0 487 L306.0 493 L296.0 499" fill="none" stroke="#6b7686" stroke-width="2"/>
+<rect x="310.0" y="470" width="200" height="46" rx="23" fill="#2563eb"/><text x="410.0" y="499" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">📝 Draft</text>
+<text x="410.0" y="540" text-anchor="middle" font-size="12.5" fill="#6b7686">tab: 🌱 Today</text>
+<path d="M516.0 493 H542.0" stroke="#6b7686" stroke-width="2"/><path d="M536.0 487 L546.0 493 L536.0 499" fill="none" stroke="#6b7686" stroke-width="2"/>
+<rect x="550.0" y="470" width="200" height="46" rx="23" fill="#2563eb"/><text x="650.0" y="499" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">🧐 Review</text>
+<text x="650.0" y="540" text-anchor="middle" font-size="12.5" fill="#6b7686">tab: 🌱 Today</text>
+<path d="M756.0 493 H782.0" stroke="#6b7686" stroke-width="2"/><path d="M776.0 487 L786.0 493 L776.0 499" fill="none" stroke="#6b7686" stroke-width="2"/>
+<rect x="790.0" y="470" width="200" height="46" rx="23" fill="#ef4444"/><text x="890.0" y="499" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">💁 Waiting for info</text>
+<text x="890.0" y="540" text-anchor="middle" font-size="12.5" fill="#6b7686">tab: 🔴 Blocked</text>
+<path d="M996.0 493 H1022.0" stroke="#6b7686" stroke-width="2"/><path d="M1016.0 487 L1026.0 493 L1016.0 499" fill="none" stroke="#6b7686" stroke-width="2"/>
+<rect x="1030.0" y="470" width="200" height="46" rx="23" fill="#16a34a"/><text x="1130.0" y="499" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">🚀 Sent</text>
+<text x="1130.0" y="540" text-anchor="middle" font-size="12.5" fill="#6b7686">tab: ⚑ Done</text>
+<text x="650" y="575" text-anchor="middle" font-size="13.5" fill="#1d2430">Both are optional and can be combined  ·  project = what is it about?  ·  workflow = where are we?</text>
+</svg>
