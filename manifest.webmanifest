@@ -1,0 +1,13 @@
+{
+  "name": "Gestionnaire de tâches",
+  "short_name": "Tâches",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f2f4",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,6 @@
+data.json
+data.json.*
+backups/
+*.env
+__pycache__/
+icon.png
